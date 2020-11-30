@@ -1,2 +1,7 @@
 # Deep_Learning_demos
-Some deep learning demos I implemented during the third year of Centralesupelec.
+Some deep learning demos I implemented during the third year of Centralesupelec:
+
+- Generative models VAE & GANs
+- Deep Reinforcement Learning (DQN, DQN - CNN)
+- NLP project: BoW, tf-idf, multilingual word embeddings, LSTMs
+- Image segmentation
